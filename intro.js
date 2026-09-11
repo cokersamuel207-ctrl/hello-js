@@ -1,0 +1,5 @@
+console.log("================================================================")
+console.log("PERSONAL INFO")
+console.log("Name: Samuel Coker")
+console.log("Age: 19")
+console.log("Favorite Programming Languages: JavaScript, Python, C")
